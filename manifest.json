@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydantic",
+  "repo": "logfire-claude-plugin",
+  "versions": [
+    {
+      "commit": "3da608785db7f5a6440a7f8a66ed5145dc1e15e6",
+      "parsed_at": "2026-10-11T19:17:38.325548+00:00",
+      "filetree": "filetree/3da608785db7f5a6440a7f8a66ed5145dc1e15e6.nq.gz",
+      "blobs": [
+        "blob/4a3bf3ca771de084e122effd3691333a26ea4cca.nq.gz",
+        "blob/4fe332b5fb5a577d8d7eb8e8d9222c75281b992a.nq.gz",
+        "blob/2c0083e001b3e2ea2a3dd08433a6a18c8ca65d61.nq.gz",
+        "blob/389496be485e4bf22ebcaf584a77fd64ad5f2532.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
