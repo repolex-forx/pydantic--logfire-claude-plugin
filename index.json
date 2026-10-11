@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "logfire-claude-plugin",
+  "versions": [
+    {
+      "commit": "3da608785db7f5a6440a7f8a66ed5145dc1e15e6",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:19:51.544904+00:00"
+    }
+  ]
+}
